@@ -9,6 +9,7 @@ Features:
 2. Login user
 3. Login Security
 4. Forgot password
+   
 -------------- ADMIN -------------------
 
 1. Flats
@@ -21,6 +22,7 @@ Features:
 8. Dashboard
 9. Allotment
 10. Profile
+
 -------------- USER -------------------
 
 1. Bills
@@ -30,6 +32,7 @@ Features:
 5. Shoutbox
 6. Dashboard
 7. Profile
+   
 --------------SECURITY-------------------
 
 1. Visitor
